@@ -1,1 +1,0 @@
-This is a React app with a user interface (UI) for changing background color with slide bar, setting a calendar and delete the calendar, and react app to setting name and use switch bar to identify the group that each data belong. Material UI is used as a third package.
